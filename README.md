@@ -1,4 +1,4 @@
-__This gem is not stable yet. DO NOT USE IN PRODUCTION__
+__This gem has been deprecated and archived. DO NOT USE IN PRODUCTION__
 
 
 # Orias
